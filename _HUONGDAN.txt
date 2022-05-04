@@ -1,0 +1,10 @@
+﻿HƯỚNG DẪN CÀI ĐẶT CSDL CHO VÍ DỤ MẪU VỀ MÔ HÌNH 3 LỚP
+******************************************************************************************
+
+1. Attack file CSDL trong thư mục /App_Data vào SQL Server.
+2. Trong SQL Server, tạo tài khoản: sa, đặt mật khẩu là thuynt. (mật khẩu này có thể đổi lại trong file cls_DataAccessLayer.cs) để kết nối vào CSDL.
+
+
+******************************************************************************************
+Mọi thắc mắc xin gửi về email: thuynt.it@gmail.com
+

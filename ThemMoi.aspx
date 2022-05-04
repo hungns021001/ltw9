@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <p>
-        <b>[<a href="Default.aspx">Về Trang chủ</a>]</b></p>
+        <b>[<a href="index.html">Về Trang chủ</a>]</b></p>
         <p>
             <b>THÊM MỚI HỌC VIÊN</b></p>
         <p>

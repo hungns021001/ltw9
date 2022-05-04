@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <strong>[<a href="Default.aspx">Về Trang chủ</a>]<br />
+        <strong>[<a href="index.html">Về Trang chủ</a>]<br />
             <br />
             CẬP NHẬT DỮ LIỆU HỌC VIÊN<br />
             <br />
